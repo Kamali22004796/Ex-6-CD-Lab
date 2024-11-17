@@ -55,10 +55,5 @@ int main()
 
 ![image](https://github.com/user-attachments/assets/59c2bbbd-439b-4c76-a055-287c0dae67be)
 
-# Result:
-
-The back end of the compiler is implemented successfully, and the output is verified.
-
-
 # Result
 The back end of the compiler is implemented successfully, and the output is verified.
